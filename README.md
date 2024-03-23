@@ -19,9 +19,9 @@ This project is designed to be compatible with Google Colab, a cloud-based Jupyt
 2. Clone the repository:
 
 Run the following cell in a new Colab notebook to clone the repository:
-'''
+````
 !git clone <repository_url>
-'''
+````
 
 ## Acknowledgments:
 The Hugging Face community for providing pre-trained transformer models and frameworks for fine-tuning.
