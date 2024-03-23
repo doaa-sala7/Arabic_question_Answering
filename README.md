@@ -20,7 +20,7 @@ This project is designed to be compatible with Google Colab, a cloud-based Jupyt
 
 Run the following cell in a new Colab notebook to clone the repository:
 ```
-!git clone <[repository_url](https://github.com/doaa-sala7/Arabic_question_Answering)>
+!git clone <(https://github.com/doaa-sala7/Arabic_question_Answering)>
 ```
 
 
